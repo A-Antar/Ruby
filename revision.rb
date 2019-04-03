@@ -44,3 +44,6 @@ result = arr.map do |x|
 end
 
 puts result
+
+
+somehting lol
